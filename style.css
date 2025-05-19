@@ -1,0 +1,15 @@
+.container{
+    font-family: "Ultra", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #da2c26;
+  }
+  .body{
+    background-color: black;
+  }
+  .nav{
+    align-content: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+  }
